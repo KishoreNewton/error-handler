@@ -1,0 +1,23 @@
+{
+  "name": "kn-error-handler",
+  "version": "1.0.0",
+  "description": "Handle Node.js errors",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KishoreNewton/error-handler.git"
+  },
+  "keywords": [
+    "error",
+    "handler"
+  ],
+  "author": "Kishore Newton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KishoreNewton/error-handler/issues"
+  },
+  "homepage": "https://github.com/KishoreNewton/error-handler#readme"
+}
